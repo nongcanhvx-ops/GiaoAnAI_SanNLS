@@ -79,7 +79,7 @@ def create_doc_stable(content, ten_bai, lop):
 st.markdown("""
 <div style='text-align: center; background: linear-gradient(135deg, #004e92 0%, #000428 100%); padding: 20px; border-radius: 10px; color: white; margin-bottom: 20px;'>
     <h1 style='color: white; margin:0;'>📘 TRỢ LÝ SOẠN GIÁO ÁN NLS</h1>
-    <p style='margin-top:10px;'>Tác giả: Thầy Lù Seo Sần - PTDTBT TH Bản Ngò</p>
+    <p style='margin-top:10px;'>Tác giả: Nông Văn Cảnh TH B Tùng Bá</p>
 </div>
 """, unsafe_allow_html=True)
 
